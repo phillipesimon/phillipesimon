@@ -2,7 +2,7 @@
 - 👀 I’m interested in Node, React, React Native, NextJS...
 - 🌱 I’m currently learning Node, typescript...
 - 📫 How to reach me. 
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simon-martins-costa-6719b9209/)](https://www.linkedin.com/in/simon-martins-costa-6719b9209/)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simon-martins-costa/)](https://www.linkedin.com/in/simon-martins-costa/)
 
 
 <!---
