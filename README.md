@@ -1,6 +1,7 @@
 ## 👋 Olá, meu nome é Simon Phillipe.
 - 🤓 Estou estudando Node e Typescript. 
-- 📫 Você pode me encontrar por aqui! [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simon-m-6719b9209/)](https://www.linkedin.com/in/simon-m-6719b9209/)
+- 📫 Você pode me encontrar por aqui!
+-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simon-m-6719b9209/)](https://www.linkedin.com/in/simon-m-6719b9209/)
 
 ##
 
