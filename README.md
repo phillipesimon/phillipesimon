@@ -1,6 +1,6 @@
 ## 👋 Olá, meu nome é Simon Phillipe.
-- 🤓 Estou estudando Node, ReactJS, Typescript. 
-- 📫 Estou nas seguintes midias... ⬇️⬇️⬇️
+- 🤓 Estou estudando Node, ReactJS e Typescript no momento. 
+- 📫 Posso ser encontrado através do ... ⬇️⬇️⬇️
 -  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simon-m-6719b9209/)](https://www.linkedin.com/in/simon-m-6719b9209/)
 
 ##
